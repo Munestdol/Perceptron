@@ -1,0 +1,15 @@
+C:\Users\batyb\OneDrive\Рабочий стол\Learning\ML\Labs\Lab3\Perceptron\Perceptron\Perceptron\bin\Debug\netcoreapp3.1\Perceptron.exe
+C:\Users\batyb\OneDrive\Рабочий стол\Learning\ML\Labs\Lab3\Perceptron\Perceptron\Perceptron\bin\Debug\netcoreapp3.1\Perceptron.deps.json
+C:\Users\batyb\OneDrive\Рабочий стол\Learning\ML\Labs\Lab3\Perceptron\Perceptron\Perceptron\bin\Debug\netcoreapp3.1\Perceptron.runtimeconfig.json
+C:\Users\batyb\OneDrive\Рабочий стол\Learning\ML\Labs\Lab3\Perceptron\Perceptron\Perceptron\bin\Debug\netcoreapp3.1\Perceptron.runtimeconfig.dev.json
+C:\Users\batyb\OneDrive\Рабочий стол\Learning\ML\Labs\Lab3\Perceptron\Perceptron\Perceptron\bin\Debug\netcoreapp3.1\Perceptron.dll
+C:\Users\batyb\OneDrive\Рабочий стол\Learning\ML\Labs\Lab3\Perceptron\Perceptron\Perceptron\bin\Debug\netcoreapp3.1\Perceptron.pdb
+C:\Users\batyb\OneDrive\Рабочий стол\Learning\ML\Labs\Lab3\Perceptron\Perceptron\Perceptron\obj\Debug\netcoreapp3.1\Perceptron.csprojAssemblyReference.cache
+C:\Users\batyb\OneDrive\Рабочий стол\Learning\ML\Labs\Lab3\Perceptron\Perceptron\Perceptron\obj\Debug\netcoreapp3.1\Perceptron.Form1.resources
+C:\Users\batyb\OneDrive\Рабочий стол\Learning\ML\Labs\Lab3\Perceptron\Perceptron\Perceptron\obj\Debug\netcoreapp3.1\Perceptron.csproj.GenerateResource.cache
+C:\Users\batyb\OneDrive\Рабочий стол\Learning\ML\Labs\Lab3\Perceptron\Perceptron\Perceptron\obj\Debug\netcoreapp3.1\Perceptron.AssemblyInfoInputs.cache
+C:\Users\batyb\OneDrive\Рабочий стол\Learning\ML\Labs\Lab3\Perceptron\Perceptron\Perceptron\obj\Debug\netcoreapp3.1\Perceptron.AssemblyInfo.cs
+C:\Users\batyb\OneDrive\Рабочий стол\Learning\ML\Labs\Lab3\Perceptron\Perceptron\Perceptron\obj\Debug\netcoreapp3.1\Perceptron.csproj.CoreCompileInputs.cache
+C:\Users\batyb\OneDrive\Рабочий стол\Learning\ML\Labs\Lab3\Perceptron\Perceptron\Perceptron\obj\Debug\netcoreapp3.1\Perceptron.dll
+C:\Users\batyb\OneDrive\Рабочий стол\Learning\ML\Labs\Lab3\Perceptron\Perceptron\Perceptron\obj\Debug\netcoreapp3.1\Perceptron.pdb
+C:\Users\batyb\OneDrive\Рабочий стол\Learning\ML\Labs\Lab3\Perceptron\Perceptron\Perceptron\obj\Debug\netcoreapp3.1\Perceptron.genruntimeconfig.cache

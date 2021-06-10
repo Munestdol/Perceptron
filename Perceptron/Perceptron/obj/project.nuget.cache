@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WrzxZXKwA4a2r392Y0cT+E3hGB3kE2LfglHQ8h3YXCj3OVO4ywbQiVbEoPbS3X4PF2MkvSeFtRWA1EPsA1RxQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\batyb\\OneDrive\\Рабочий стол\\Learning\\ML\\Labs\\Lab3\\Perceptron\\Perceptron\\Perceptron\\Perceptron.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\batyb\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
